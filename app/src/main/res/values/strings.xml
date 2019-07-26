@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">lab2Project</string>
-    <string name="name1">Ramal</string>
+    <string name="num1">Number1</string>
+    <string name="num2">Number2</string>
+    <string name="ok">Ok</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
 </resources>
